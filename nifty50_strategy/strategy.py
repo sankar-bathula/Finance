@@ -1,5 +1,5 @@
 import pandas as pd
-
+import yfinance as yf
 
 class Nifty50Strategy:
     def __init__(self, data):
